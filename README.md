@@ -98,4 +98,12 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rajkamal080805/To_Do_List/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rajkamal080805/To_Do_List/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
