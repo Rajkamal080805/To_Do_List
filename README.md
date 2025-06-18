@@ -88,6 +88,7 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
+| [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
 ## Sorting
 |  |
@@ -107,4 +108,12 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajkamal080805/To_Do_List/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
