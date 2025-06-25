@@ -82,11 +82,13 @@ Contributions are what make the open source community such an amazing place to b
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rajkamal080805/To_Do_List/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
@@ -116,4 +118,8 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
