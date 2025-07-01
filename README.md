@@ -82,6 +82,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Rajkamal080805/To_Do_List/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rajkamal080805/To_Do_List/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -105,6 +106,7 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajkamal080805/To_Do_List/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Rajkamal080805/To_Do_List/tree/master/0171-excel-sheet-column-number) |
 | [2391-strong-password-checker-ii](https://github.com/Rajkamal080805/To_Do_List/tree/master/2391-strong-password-checker-ii) |
 ## Stack
 |  |
