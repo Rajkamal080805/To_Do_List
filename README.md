@@ -103,12 +103,14 @@ Contributions are what make the open source community such an amazing place to b
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajkamal080805/To_Do_List/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Rajkamal080805/To_Do_List/tree/master/0171-excel-sheet-column-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 | [2391-strong-password-checker-ii](https://github.com/Rajkamal080805/To_Do_List/tree/master/2391-strong-password-checker-ii) |
 ## Stack
 |  |
@@ -131,8 +133,13 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
