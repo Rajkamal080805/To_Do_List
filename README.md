@@ -89,6 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajkamal080805/To_Do_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,4 +143,8 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajkamal080805/To_Do_List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
