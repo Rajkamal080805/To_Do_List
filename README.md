@@ -90,12 +90,14 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
 ## Counting Sort
@@ -124,4 +126,13 @@ Contributions are what make the open source community such an amazing place to b
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rajkamal080805/To_Do_List/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rajkamal080805/To_Do_List/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
