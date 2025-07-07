@@ -95,6 +95,7 @@ Contributions are what make the open source community such an amazing place to b
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkamal080805/To_Do_List/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Rajkamal080805/To_Do_List/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Rajkamal080805/To_Do_List/tree/master/1137-height-checker) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rajkamal080805/To_Do_List/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Contributions are what make the open source community such an amazing place to b
 | [0171-excel-sheet-column-number](https://github.com/Rajkamal080805/To_Do_List/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rajkamal080805/To_Do_List/tree/master/0409-longest-palindrome) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rajkamal080805/To_Do_List/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2391-strong-password-checker-ii](https://github.com/Rajkamal080805/To_Do_List/tree/master/2391-strong-password-checker-ii) |
 ## Stack
 |  |
