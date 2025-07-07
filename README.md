@@ -115,6 +115,7 @@ Contributions are what make the open source community such an amazing place to b
 | [0387-first-unique-character-in-a-string](https://github.com/Rajkamal080805/To_Do_List/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rajkamal080805/To_Do_List/tree/master/0409-longest-palindrome) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rajkamal080805/To_Do_List/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/Rajkamal080805/To_Do_List/tree/master/1797-goal-parser-interpretation) |
 | [2391-strong-password-checker-ii](https://github.com/Rajkamal080805/To_Do_List/tree/master/2391-strong-password-checker-ii) |
 ## Stack
 |  |
